@@ -1,2 +1,2 @@
 # DM
-The code of paper Understanding Modal Inconsistency in Prompt Learning
+The code of paper Dense Mapping: Leveraging Semantic Asymmetry for Multi-Modal Prompt Learning
